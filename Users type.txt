@@ -1,0 +1,8 @@
+1~Teacher
+2~student
+3~Managar
+4~Admin
+5~Supervaisor
+6~Doctor
+7~Librarian
+8~Principle
